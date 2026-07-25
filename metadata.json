@@ -1,0 +1,6 @@
+{
+  "name": "Recordatorio de Medicamentos",
+  "description": "Aplicación para el control diario de tomas de pastillas con alertas 15 minutos antes, registro de tomas y horarios personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

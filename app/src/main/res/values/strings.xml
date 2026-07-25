@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pastillero Daily</string>
+    <string name="channel_name">Recordatorios de Medicamentos</string>
+    <string name="channel_description">Notificaciones para recordar tomar las pastillas 15 minutos antes.</string>
+</resources>
